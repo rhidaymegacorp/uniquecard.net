@@ -1,0 +1,19 @@
+.nav-background {
+	background-color: #ff7370;
+}
+
+.logo-image img{
+	width: 80px;
+    margin-top: 3px;
+    margin-left: 52px;
+}
+
+.collection-list{
+	margin: 0;
+	padding: 13px 8px;
+ 	background-color: teal;
+}
+
+.parallax-container{
+	height: 300px;
+}
