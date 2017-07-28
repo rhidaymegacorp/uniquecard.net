@@ -33,9 +33,9 @@
             </div>
           </div>
         </footer>
-	
-	<script src="themes/js/jquery-2.1.1.min.js"></script>
-	<script src="themes/js/materialize.min.js"></script>
+
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
 	<script src="themes/js/main.js"></script>
 
 </body>
